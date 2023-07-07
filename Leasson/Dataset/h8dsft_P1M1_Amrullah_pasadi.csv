@@ -1,4 +1,4 @@
-limit_balance,sex,education_level,marital_status,age,pay_0,pay_2,pay_3,pay_4,pay_5,pay_6,bill_amt_1,bill_amt_2,bill_amt_3,bill_amt_4,bill_amt_5,bill_amt_6,pay_amt_1,pay_amt_2,pay_amt_3,pay_amt_4,pay_amt_5,pay_amt_6,default_payment_next_month
+limit_balance,sex,education_level,marital_status,age,pay_september,pay_agustus,pay_juli,pay_juni,pay_mei,pay_april,bill_amt_september,bill_amt_agustus,bill_amt_juli,bill_amt_juni,bill_amt_mei,bill_amt_april,pay_amt_september,pay_amt_agustus,pay_amt_juli,pay_amt_juni,pay_amt_mei,pay_amt_april,default_payment_next_month
 80000,1,6,1,54,0,0,0,0,0,0,61454,61808,62290,29296,26210,17643,2545,2208,1336,2232,542,348,1
 200000,1,4,1,49,0,0,0,0,0,0,49221,49599,50942,50146,50235,48984,1689,2164,2500,3480,2500,3000,0
 20000,2,6,2,22,0,0,0,0,0,0,19568,19420,15535,1434,500,0,4641,1019,900,0,1500,0,1
