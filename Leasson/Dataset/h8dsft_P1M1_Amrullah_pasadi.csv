@@ -1,4 +1,4 @@
-limit_balance,sex,education_level,marital_status,age,pay_september,pay_agustus,pay_juli,pay_juni,pay_mei,pay_april,bill_amt_september,bill_amt_agustus,bill_amt_juli,bill_amt_juni,bill_amt_mei,bill_amt_april,pay_amt_september,pay_amt_agustus,pay_amt_juli,pay_amt_juni,pay_amt_mei,pay_amt_april,default_payment_next_month
+lim_bal,sex,education,marital,age,pay_september,pay_agustus,pay_juli,pay_juni,pay_mei,pay_april,bill_amt_september,bill_amt_agustus,bill_amt_juli,bill_amt_juni,bill_amt_mei,bill_amt_april,pay_amt_september,pay_amt_agustus,pay_amt_juli,pay_amt_juni,pay_amt_mei,pay_amt_april,default_pay
 80000.0,1,6,1,54.0,0.0,0.0,0.0,0.0,0.0,0.0,61454.0,61808.0,62290.0,29296.0,26210.0,17643.0,2545.0,2208.0,1336.0,2232.0,542.0,348.0,1
 200000.0,1,4,1,49.0,0.0,0.0,0.0,0.0,0.0,0.0,49221.0,49599.0,50942.0,50146.0,50235.0,48984.0,1689.0,2164.0,2500.0,3480.0,2500.0,3000.0,0
 20000.0,2,6,2,22.0,0.0,0.0,0.0,0.0,0.0,0.0,19568.0,19420.0,15535.0,1434.0,500.0,0.0,4641.0,1019.0,900.0,0.0,1500.0,0.0,1
